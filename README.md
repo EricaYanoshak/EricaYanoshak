@@ -1,4 +1,4 @@
-# ✨ Hi, I’m Erica   
+# Hi, I’m Erica   
 
 🎓 **Boston University – M.S. in Data Science (In Progress)**  
 📊 **AI-Certified Consultant | Marketing → Data Science Transition**  
