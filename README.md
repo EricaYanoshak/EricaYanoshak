@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 🔭 [**Decoding UFO Sightings**](#)  
 *Analyzed 80k+ records of UFO sightings, built predictive models with Prophet, and created geovisualizations using Plotly Dash.*  
@@ -44,7 +44,7 @@
 
 ---
 
-## 📚 Education  
+## Education  
 
 🎓 **Boston University** – M.S. in Data Science (*In Progress*)  
 🎓 **University of Pennsylvania** – AI & Machine Learning Certification (2024)  
