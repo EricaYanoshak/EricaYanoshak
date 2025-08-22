@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Technical Skills  
+## Technical Skills  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
